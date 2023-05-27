@@ -3,7 +3,15 @@
 <h3 align="center">A passionate unity developer</h3>
 
 
+
+- 🌱 I’m currently learning **Unity, Unreal Engine**
+
+- 👨‍💻 All of my projects are available at [https://github.com/TahaKoyuturk?tab=repositories](https://github.com/TahaKoyuturk?tab=repositories)
+
 - 📫 How to reach me **tahakoyuturk99@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P_qy40DzjuNK59Pr7-IBN9xvkrC_-F1o/view?usp=sharing](https://drive.google.com/file/d/1P_qy40DzjuNK59Pr7-IBN9xvkrC_-F1o/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
