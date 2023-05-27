@@ -1,6 +1,7 @@
+<img align="right" alt="Developer" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="center">Hi 👋, I'm Taha Koyutürk</h1>
 <h3 align="center">A passionate unity developer</h3>
-<img align="right" alt="Developer" width="400" src="https://i.gifer.com/6M8R.gif">
+
 
 - 📫 How to reach me **tahakoyuturk99@gmail.com**
 
