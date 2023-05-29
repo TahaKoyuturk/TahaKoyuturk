@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tahakoyuturk99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P_qy40DzjuNK59Pr7-IBN9xvkrC_-F1o/view?usp=sharing](https://drive.google.com/file/d/1P_qy40DzjuNK59Pr7-IBN9xvkrC_-F1o/view?usp=sharing)
+- 📄 Know about my experiences [rb.gy/yqzm6](https://drive.google.com/file/d/1P_qy40DzjuNK59Pr7-IBN9xvkrC_-F1o/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
