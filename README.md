@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Unity and Unreal Engine**
 
-- 📄 Review my Resume [rb.gy/yqzm6](https://drive.google.com/file/d/1P_qy40DzjuNK59Pr7-IBN9xvkrC_-F1o/view?usp=sharing) 
+- 📄 Review my Resume [GDrive]([https://drive.google.com/file/d/1P_qy40DzjuNK59Pr7-IBN9xvkrC_-F1o/view?usp=sharing](https://drive.google.com/file/d/1oDkykQhm4Gsea0aifnYf8_RLTdLBeV1n/view?usp=sharing)) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/TahaKoyuturk?tab=repositories](https://github.com/TahaKoyuturk?tab=repositories)
 
