@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Unity and Unreal Engine**
 
-- 📄 Review my Resume [https://tls.tc/85ynJ]
+- 📄 Review my Resume [https://tls.tc/ndH4m]
 
 - 👨‍💻 All of my projects are available at [https://github.com/TahaKoyuturk?tab=repositories](https://github.com/TahaKoyuturk?tab=repositories)
 
