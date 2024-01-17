@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Unity, Unreal Engine**
+- 🌱 I’m currently learning **Unity and Unreal Engine**
 
 - 📄 Know about my experiences [rb.gy/yqzm6](https://drive.google.com/file/d/1P_qy40DzjuNK59Pr7-IBN9xvkrC_-F1o/view?usp=sharing) 
 
