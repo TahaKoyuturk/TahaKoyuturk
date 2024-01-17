@@ -1,6 +1,6 @@
 <img align="right" alt="Developer" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="center">Hi 👋, I'm Taha Koyutürk</h1>
-<h3 align="center">A Passionate Junior Unity Developer</h3>
+<h3 align="center">A Passionate Junior Game Developer</h3>
 
 
 
