@@ -8,7 +8,7 @@
 
 - 📄 Review my Resume [https://tls.tc/ndH4m]
 
-- 👨‍💻 All of my projects are available at [https://github.com/TahaKoyuturk?tab=repositories](https://github.com/TahaKoyuturk?tab=repositories)
+- 👨‍💻 All of my projects are available at  [projects](https://github.com/TahaKoyuturk?tab=repositories](https://github.com/TahaKoyuturk?tab=repositories)
 
 
 - 📫 How to reach me **tahakoyuturk99@gmail.com**
