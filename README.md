@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Unity and Unreal Engine**
+- 🌱 I’m currently learning **Unity and Unreal Engine 5**
 
 - 📄 Review my [Resume](https://tls.tc/ndH4m)
 
